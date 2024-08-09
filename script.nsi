@@ -1,5 +1,7 @@
 !include "MUI.nsh"
 
+Unicode true
+
 Name "StabIV"
 InstallDir "$PROGRAMFILES\Steam\steamapps\common\Grand Theft Auto IV\GTAIV"
 OutFile "StabIV_Installer.exe"
